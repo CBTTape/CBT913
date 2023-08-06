@@ -1,0 +1,23 @@
+2023-08-06 08:24:12.174867 - Initialized conversion of CBT913
+2023-08-06 08:24:12.495456 - Received CBT.V505.FILE913.PDS from FILE913.XMI 
+2023-08-06 08:24:12.498076 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE913.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:24:12.499089 - Found $$INDEX.txt (text/plain) in CBT.V505.FILE913.PDS, moved to PDS/$$INDEX
+2023-08-06 08:24:12.500265 - Found $$NOTE01.txt (text/plain) in CBT.V505.FILE913.PDS, moved to PDS/$$NOTE01
+2023-08-06 08:24:12.501239 - Found $$NOTE02.txt (text/plain) in CBT.V505.FILE913.PDS, moved to PDS/$$NOTE02
+2023-08-06 08:24:12.502256 - Found $ASM.jcl (text/plain) in CBT.V505.FILE913.PDS, moved to PDS/$ASM
+2023-08-06 08:24:12.503351 - Found $CCOMP.jcl (text/plain) in CBT.V505.FILE913.PDS, moved to PDS/$CCOMP
+2023-08-06 08:24:12.504244 - Found @FILE913.txt (text/plain) in CBT.V505.FILE913.PDS, moved to PDS/@FILE913
+2023-08-06 08:24:12.505158 - Found HCMTCL.x-c (text/x-c) in CBT.V505.FILE913.PDS, moved to PDS/HCMTCL
+2023-08-06 08:24:12.506175 - Found HCMTCLJ.jcl (text/plain) in CBT.V505.FILE913.PDS, moved to PDS/HCMTCLJ
+2023-08-06 08:24:12.507120 - Found HCSMS.x-c (text/x-c) in CBT.V505.FILE913.PDS, moved to PDS/HCSMS
+2023-08-06 08:24:12.508092 - Found HCSMS$.jcl (text/plain) in CBT.V505.FILE913.PDS, moved to PDS/HCSMS$
+2023-08-06 08:24:12.509033 - Found HCSMSJ.jcl (text/plain) in CBT.V505.FILE913.PDS, moved to PDS/HCSMSJ
+2023-08-06 08:24:12.558683 - Found LOAD.xmi (application/xmit) in CBT.V505.FILE913.PDS
+2023-08-06 08:24:12.568804   - Received RECFM=U data, stored XMIT file as CBT913/LOAD.xmi
+2023-08-06 08:24:12.569779 - Found LOAD$.jcl (text/plain) in CBT.V505.FILE913.PDS, moved to PDS/LOAD$
+2023-08-06 08:24:12.570757 - Found MTCCSUB.txt (text/plain) in CBT.V505.FILE913.PDS, moved to PDS/MTCCSUB
+2023-08-06 08:24:12.745495 - Found MVSCB.xmi (application/xmit) in CBT.V505.FILE913.PDS
+2023-08-06 08:24:12.778865   - Received to CBT913/HC.MVSCB
+2023-08-06 08:24:12.779852 - Found MVSCB$.jcl (text/plain) in CBT.V505.FILE913.PDS, moved to PDS/MVSCB$
+2023-08-06 08:24:12.781773 - De-xmi-ed PDFDOC to CBT913/docs/PDFDOC.pdf
+2023-08-06 08:24:12.782921 - Found SMSINFO.txt (text/plain) in CBT.V505.FILE913.PDS, moved to PDS/SMSINFO
